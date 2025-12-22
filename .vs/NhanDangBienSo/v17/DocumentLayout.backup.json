@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|d:\\khongxoa_du_an\\nhandangbienso\\nhandangbienso\\nhandangbienso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|solutionrelative:nhandangbienso\\nhandangbienso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|D:\\khongXoa_DU_AN\\NhanDangBienSo\\nhandangbienso\\nhandangbienso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|solutionrelative:nhandangbienso\\nhandangbienso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|D:\\khongXoa_DU_AN\\NhanDangBienSo\\nhandangbienso\\nhandangbienso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156E5B2E-1494-4875-B120-1DE68FFF4DFB}|NhanDangBienSo\\NhanDangBienSo.csproj|solutionrelative:nhandangbienso\\nhandangbienso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanDangBienSo.cs",
+              "DocumentMoniker": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.cs",
+              "RelativeDocumentMoniker": "NhanDangBienSo\\NhanDangBienSo.cs",
+              "ToolTip": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.cs",
+              "RelativeToolTip": "NhanDangBienSo\\NhanDangBienSo.cs",
+              "ViewState": "AgIAAKACAAAAAAAAAAAcwJQCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:39:57.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanDangBienSo.Designer.cs",
+              "DocumentMoniker": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.Designer.cs",
+              "RelativeDocumentMoniker": "NhanDangBienSo\\NhanDangBienSo.Designer.cs",
+              "ToolTip": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.Designer.cs",
+              "RelativeToolTip": "NhanDangBienSo\\NhanDangBienSo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:41:04.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanDangBienSo.cs [Design]",
+              "DocumentMoniker": "D:\\khongXoa_DU_AN\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.cs",
+              "RelativeDocumentMoniker": "NhanDangBienSo\\NhanDangBienSo.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\NhanDangBienSo\\NhanDangBienSo\\NhanDangBienSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:34:54.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
